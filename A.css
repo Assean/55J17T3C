@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+#h1{
+    color: gainsboro;
+    font-size: 100px;
+    background: red;
+    text-align: center;
+    padding: 30px;
+    margin: 30px 0px;
+    border-radius: 20px;
+    /*圓形*/
+}
+#div1{
+    color: aqua;
+    margin: 50px;
+    padding: 40px;
+    background: rebeccapurple;
+    border-radius: 200px;
+    font-size: 50px;
+}
+#hr1{
+    font-size: 30px;
+}
+.as{
+    color: yellowgreen;
+}
+#a1{
+    text-emphasis: none;
+}
+.card{
+    color: red;
+    width: 500px;
+    background: pink;
+    text-align: center;
+    padding: 30px;
+    margin: 30px 0px;
+    border-radius: 20px;
+}
+#p1{
+    font-size: 120px;
+}
+#b1{
+    font-size: 100px;
+}
+#h3{
+    color: aqua;
+}
